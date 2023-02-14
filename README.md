@@ -1,4 +1,4 @@
-# Calculator
+# Responsive-Form
 Projeto pessoal de um formulário responsivo
 
 ## Tecnologias Utilizadas
